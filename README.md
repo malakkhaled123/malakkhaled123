@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I'm Malak  
 
-🎓 I'm a Computer Science student specializing in **Healthcare Informatics and Data Analytics**.  
+🎓 I'm a Data Science student specializing in **Healthcare Informatics and Data Analytics**.  
 I'm passionate about combining technology and healthcare to create intelligent, data-driven solutions that improve patient care and decision-making.  
 
 ---
@@ -43,8 +43,6 @@ Here are a few of my favorite projects that reflect my interests and learning jo
 **Languages:** Python, SQL, HTML, CSS  
 **Data Tools:** Power BI, Tableau, Excel, Pandas, NumPy  
 **Machine Learning:** Scikit-learn, TensorFlow (basics), Data Preprocessing, Model Evaluation  
-**Database:** MySQL, SQLite  
-**Version Control:** Git, GitHub  
 **Other:** Data Cleaning, Data Visualization, Dashboard Design, Healthcare Data Analytics  
 
 ---
