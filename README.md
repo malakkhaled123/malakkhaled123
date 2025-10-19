@@ -40,7 +40,7 @@ Here are a few of my favorite projects that reflect my interests and learning jo
 
 ## 🛠️ Technical Skills  
 
-**Languages:** Python, SQL, HTML, CSS  
+**Languages:** Python, SQL, R , Java  
 **Data Tools:** Power BI, Tableau, Excel, Pandas, NumPy  
 **Machine Learning:** Scikit-learn, TensorFlow (basics), Data Preprocessing, Model Evaluation  
 **Other:** Data Cleaning, Data Visualization, Dashboard Design, Healthcare Data Analytics  
