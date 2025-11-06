@@ -34,7 +34,6 @@ Here are a few of my favorite projects that reflect my interests and learning jo
 - **📊 Data Analytics Dashboards** – Designed interactive dashboards using **Power BI**, **Tableau**, and **Excel** to visualize healthcare and business data trends.  
 - **🤖 Smart Bed (Robotics Project)** – Built a prototype system that adjusts automatically for patient comfort and health monitoring.  
 - **🧠 Machine Learning Projects** – Worked on ML models for basic **classification** and **prediction tasks** using **Python**, **Scikit-learn**, and **Pandas**.  
-- **💡 Smart Clinical Assistant (Graduation Project)** – Developing an AI-powered assistant to help doctors with patient summaries, decision support, and record management.  
 
 ---
 
